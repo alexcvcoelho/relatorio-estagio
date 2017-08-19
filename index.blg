@@ -2,6 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: index.aux
 A level-1 auxiliary file: pre-textuais/lista-ilustracoes.aux
+A level-1 auxiliary file: pre-textuais/lista-abreviaturas-siglas.aux
 A level-1 auxiliary file: pre-textuais/sumario.aux
 The style file: abntex2-alf.bst
 I found no \bibdata command---while reading file index.aux
@@ -26,7 +27,7 @@ Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 +---------------------------------------------------------+
 You've used 0 entries,
             6714 wiz_defined-function locations,
-            1196 strings with 9353 characters,
+            1197 strings with 9395 characters,
 and the built_in function-call counts, 679 in all, are:
 = -- 182
 > -- 0
