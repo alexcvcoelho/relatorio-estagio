@@ -19,16 +19,26 @@
 \contentsline {section}{\numberline {3.2}Objeto de Produ\IeC {\c c}\IeC {\~a}o da Empresa e Miss\IeC {\~a}o}{13}{section.3.2}
 \contentsline {section}{\numberline {3.3}Organograma do Setor}{14}{section.3.3}
 \contentsline {section}{\numberline {3.4}Atribui\IeC {\c c}\IeC {\~o}es do Setor}{15}{section.3.4}
-\contentsline {section}{\numberline {3.5}Processo de Sele\IeC {\c c}\IeC {\~a}o}{15}{section.3.5}
+\contentsline {section}{\numberline {3.5}Processo de Sele\IeC {\c c}\IeC {\~a}o}{16}{section.3.5}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Recursos dispon\IeC {\'\i }veis}}{17}{chapter.4}
-\contentsline {section}{\numberline {4.1}Oficinas e Laborat\IeC {\'o}rios}{17}{section.4.1}
-\contentsline {section}{\numberline {4.2}Equipe de Trabalho}{17}{section.4.2}
-\contentsline {section}{\numberline {4.3}Inter-rela\IeC {\c c}\IeC {\~a}o com Outras \IeC {\'A}reas da Empresa}{17}{section.4.3}
+\contentsline {section}{\numberline {4.1}Recursos do Est\IeC {\'a}gio}{17}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Linux}{17}{subsection.4.1.1}
+\contentsline {section}{\numberline {4.2}Oficinas e Laborat\IeC {\'o}rios}{18}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Laborat\IeC {\'o}rio de Inform\IeC {\'a}tica}{18}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Laborat\IeC {\'o}rio de Qu\IeC {\'\i }mica}{18}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Laborat\IeC {\'o}rio de Inova\IeC {\c c}\IeC {\~a}o de Games e Aplicativos}{20}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Fab Lab}{20}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}Equipe de Trabalho}{21}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Infraestrutra}{21}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Sistemas}{22}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Desenvolvimento}{22}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Gerenciamento}{22}{subsection.4.3.4}
+\contentsline {section}{\numberline {4.4}Inter-rela\IeC {\c c}\IeC {\~a}o com Outras \IeC {\'A}reas da Empresa}{22}{section.4.4}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Atividades Desenvolvidas}}{18}{chapter.5}
-\contentsline {section}{\numberline {5.1}\IeC {\'A}reas de Identifica\IeC {\c c}\IeC {\~a}o com o Curso}{18}{section.5.1}
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Atividades Desenvolvidas}}{24}{chapter.5}
+\contentsline {section}{\numberline {5.1}\IeC {\'A}reas de Identifica\IeC {\c c}\IeC {\~a}o com o Curso}{24}{section.5.1}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Conclus\IeC {\~o}es}}{19}{chapter.6}
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Conclus\IeC {\~o}es}}{25}{chapter.6}
 \vspace {\cftbeforechapterskip }
 \vspace {\cftbeforechapterskip }

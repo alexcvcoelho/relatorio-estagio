@@ -114,6 +114,10 @@
 \preambulo{Relatório apresentado como requisito obrigatório para a integralização do Curso de Engenharia da Computação.}
 % ---
 
+%---
+% Lista de figuras contando por seção
+%---
+%\counterwithin{figure}{section}
 
 % ---
 % Configurações de aparência do PDF final
@@ -456,9 +460,9 @@ Em 2008 é realizada a 1ª Maratona de Desenvolvimento de Jogos. A Maratona de D
 Em 2010 é aberto o curso de Engenharia Mecatrônica. Em 2011 é dado início a Construção do Prédio C. Nos 7 mil metros quadrados de construção são mais 30 salas de aula, todas equipadas com lousas digitais, sistema de som e adequações acústicas. Com estrutura pré-montada e linhas arquitetônicas modernas, além de utilizar toda a tecnologia disponível, existe também a preocupação com sustentabilidade.
 
 \begin{figure}[htb]
-	\caption{\label{fig:mapsfacens} Prédio C}
+	\caption{\label{fig:predioc} Prédio C}
 	\begin{center}
-		\includegraphics[scale=0.85]{predioc}
+		\includegraphics[scale=0.3]{predioc}
 	\end{center}
 \end{figure}
 
@@ -517,7 +521,7 @@ A Faculdade de Engenharia de Sorocaba (FACENS) tem como missão: "Formar cidadã
 
 \section{Atribuições do Setor}
 \label{sec:atribsetor}
-O setor é compreendido em duas áreas, uma relacionada com infraestrutura e a outra com sistemas e desenvolvimento. Na área de infraestrutura se tem os analistas de rede e os analistas de suporte os quais trabalham em conjunto para manter o funcionamento da rede interna e a disponibilidade dos sistemas que rodam em servidores internos, bem como manter os computadores, tanto corporativos como educacionais, em perfeito funcionamento para que o usuário possa desempenhar seu trabalho, nestes são aplicados regras de acesso limitando determinados tipos de acesso aos computadores. É por parte deles também a responsabilidade de realizar a instalação de novos softwares e manter as licenças dos mesmos atualizadas, tanto para o uso dos trabalhadores como para os alunos em sala de aula.
+O setor é compreendido em duas áreas, uma relacionada com infraestrutura e a outra com sistemas e desenvolvimento. Na área de infraestrutura se tem os analistas de rede e os analistas de suporte os quais trabalham em conjunto para manter o funcionamento da rede interna e a disponibilidade dos sistemas que rodam em servidores internos, além da telefonia Voip, bem como manter os computadores, tanto corporativos como educacionais, em perfeito funcionamento para que o usuário, sendo ele funcionário ou aluno possa desempenhar seu trabalho, nestes são aplicados regras de acesso limitando determinados tipos de acesso aos computadores, como bloqueios de USB e restrições a determinados sites. É por parte deles também a responsabilidade de realizar a instalação de novos softwares e manter as licenças dos mesmos atualizadas, tanto para o uso dos trabalhadores como para os alunos em sala de aula.
 
 A área relacionada com sistemas trabalha dentro da plataforma Totvs a fim de manter os dados dos alunos e funcionários, e através dessa base de dados a área de desenvolvimento consome os dados para criação de aplicações úteis tanto para funcionários como para alunos. Estas aplicações na área acadêmica vão desde sistemas para troca de email e senha como sistemas de inscrições para maratonas   e eventos dentro da faculdade.
 
@@ -527,31 +531,121 @@ Entre outras responsabilidades do setor está o de garantir a proteção e consi
 
 \section{Processo de Seleção}
 \label{sec:procselecao}
-O processo de seleção foi compreendido em etapa única, a qual na época era para uma vaga de estagiário como atendente no \textit{help desk} e também para dar suporte aos computadores da faculdade, um estágio de 6 horas diárias no período da tarde. 
+O processo de seleção foi compreendido em etapa única, a qual na época era para uma vaga de estagiário como atendente no \textit{help desk} e também para dar suporte aos computadores da faculdade, prestando atendimento primeiro nível aos analistas de suporte, um estágio de 6 horas diárias no período da tarde, recebendo bolsa estágio. 
 
-Os entrevistadores eram os analistas de redes, na época o Eng. Bruno Rodrigues e o Eng. Alexandre Machado, que após a entrevista me informaram que fui selecionado para a vaga, e então passei a desempenhar esta função por três meses. Logo depois os mesmos recrutadores me ofereceram estágio como desenvolvedor, mesmo eu não tendo experiência na época, aceitei e passei a atuar no desenvolvimento de software inicialmente apenas com PHP, ajudando diretamente o Eng. Flávio Bogila e Eng. Alexandre Machado.
+Os entrevistadores eram os analistas de redes, na época o Eng. Bruno Rodrigues e o Eng. Alexandre Machado, que após a entrevista me informaram que fui selecionado para a vaga, e então passei a desempenhar esta função por três meses. Logo depois os mesmos recrutadores me ofereceram estágio como desenvolvedor, mesmo eu não tendo experiência na época, aceitei e passei a atuar no desenvolvimento de software inicialmente apenas com PHP, trabalhando diretamente ao lado do Eng. Flávio Bogila e Eng. Alexandre Machado, além do estagiário Guilherme Pannayotou que desempenhava a função de \textit{front-end}, enquanto eu trabalhava no \textit{backend} das aplicações.
 
-Mais tarde passei a atuar ao lado de toda a equipe de TI por questões de integração entre redes e sistemas e o desenvolvimento.
+Ao término dos dois anos de contrato de estágio recebi o convite para trabalhar no cargo de Analista de Sistemas Júnior em regime CLT, agora trabalhando no time de desenvolvimento composto por mim e o Eng. Flávio, expandindo os conhecimentos para Ruby, C\# e Apex presente na plataforma SalesForce a qual passou-se a utilizar dentro da empresa. Nesta nova função todas as atividades desenvolvidas englobam trabalho em equipe ao lado do time de infraestrutura e sistemas, pois para manter os sistemas no ar era preciso de recursos de servidores e também precisam ser alimentados com dados presentes no sistema Totvs, no qual está todas as informações dos usuários. 
 
 \chapter{Recursos disponíveis}
 \label{chap:chap4}
 Entre os recursos disponíveis estão computadores atuais, conectados a uma internet de alta qualidade com links dedicados e auxiliares.
 
+\section{Recursos do Estágio}
+A sala do TI, na qual se realizou o estágio está situada no prédio E dentro da faculdade, no segundo andar (andar administrativo), as salas são equipadas com uma máquina para cada colaborador, sendo a minha em questão com processador i7 e 8 GB de memória RAM, mostrado na figura \ref{fig:pc}, possibilitando desenvolver e testar todo o tipo de tecnologia referente a desenvolvimento
+
+\subsection{Linux}
+Utilizou-se o sistema operacional Linux para maior facilidade na instalação e configuração das tecnologias utilizadas durante o estágio, se utilizando da distribuição Linux Mint versão 17.0 (Sarah) com interface gráfica Cinamon, como mostrado na figura \ref{fig:linux}. Isto só foi possível através da política da empresa que permitiu o uso de um sistema operacional diferente ao do padrão adotado pela faculdade, que é o Windows.
+
+\begin{figure}[htb]
+	\caption{\label{fig:linux} Linux Mint}
+	\begin{center}
+		\includegraphics[scale=0.3]{linux}
+	\end{center}
+\end{figure}
+
+
 \section{Oficinas e Laboratórios}
 \label{sec:oficlabs}
-O Laboratório de Informática da Facens é um dos principais setores da Faculdade de Engenharia de Sorocaba, pois tudo passa por ele, tanto os sistemas em utilização pelos setores administrativos quantos os acadêmicos acessados pelos alunos.
+A Facens conta com 9 prédios, em que neles estão laboratórios destinados a alunos, sendo que cada curso se utiliza de um conjunto de laboratórios, como por exemplo o curso de Engenharia de Computação, o qual utiliza os laboratórios de Química, Informática e Elétrica, além das salas de aulas. Todos os laboratórios e salas de aulas são equipadas com projetores e lousas digitais, as quais proporcionam um ótimo aprendizado ao aluno, mantendo a sua excelência no ensino.
 
-O LI (Laboratório de Informática) Possui uma sala administrativa, uma sala de controle, nove laboratórios de informática, todos eles com computadores excelentes com alto poder de processamento, além de diversos softwares acadêmicos para utilização dos alunos e professores durante as aulas e até menos outros períodos além de uma sala com vários servidores, cada um deles para um determinado propósito especifico para o funcionamento de toda essa arvore de acesso. A sala de controle é responsável por atender os alunos e professores em quaisquer duvidas ou suporte que tais precisem, além de atender os setores administrativos para qualquer tipo de suporte, tanto na utilização de software, instalação, manutenção de computador e qualquer outra ajuda referente a área.
+\subsection{Laboratório de Informática}
+Um dos 9 prédios da Faculdade é onde está localizado o Laboratório de Informática (LI), o qual possui dentro dele 13 salas equipadas com computadores e projetores, utilizados durante as aulas, nos computadores é possível encontrar \textit{softwares} acadêmicos os quais atendem as demandas de todos os cursos, possibilitando o desenvolvimento de projetos acadêmicos, além de permitir aos alunos acesso a \textit{internet}.
 
-Toda a rede da faculdade está interligada com o LI, e é por ele que a mesma é gerenciada pelos profissionais responsáveis da área. Todos os roteadores presentes na faculdade são configurados e disponibilizados de forma livre, sem a necessidade de cadastro prévio, facilitando para o estudante o acesso a internet em qualquer ponto da faculdade.
+É dentro do LI que se encontra também toda a equipe de suporte responsável pela manutenção, e mantimento de todas as máquinas presentes na Faculdade, além das próprias contidas no LI, dentre essas máquinas estão também as impressoras utilizadas por todos os setores. Juntamente com a equipe do LI trabalha o setor de Tecnologia da Informação (TI) o qual tem a responsabilidade de desenvolver e manter sistemas tanto corporativos como acadêmicos em funcionamento, além de cuidar de toda a infraestrutura de rede presente na faculdade.
 
-Além do suporte e estruturação da informática da faculdade o LI também tem seus profissionais na área de desenvolvimento, que fazem sistemas principalmente para a utilização interna e acesso pelos alunos, visando sempre a automatização de processos facilitando cada vez mais o fluxo de informações existente na faculdade.
+Dentro do LI os alunos tem a oportunidade de enriquecer seu aprendizado através de aulas práticas, desfrutando de ferramentas onlines ou \textit{softwares} licenciados para estudantes.
+
+\subsection*{Laboratório de Elétrica}
+
+\begin{figure}[htb]
+	\caption{\label{fig:eletrica} Laboratório de Elétrica}
+	\begin{center}
+		\includegraphics[scale=0.3]{eletrica}
+	\end{center}
+\end{figure}
+
+O Laboratório de Elétrica é o prédio ao qual está destinado o aprendizado de matérias relacionadas a elétrica, sendo equipada com um braço robótico, diversos tipos de placas de \textit{hardware} acadêmicas e as de uso no mercado de trabalho, lá é possível se utilizar destas ferramentas durante aulas práticas, incrementando o aprendizado dos alunos. Este laboratório não é muito utilizado pelas turmas de Engenharia Civil, apesar de ser aberto para qualquer curso da instituição.
+
+\subsection{Laboratório de Química}
+
+\begin{figure}[htb]
+	\caption{\label{fig:quimica} Laboratório de Química}
+	\begin{center}
+		\includegraphics[scale=0.3]{quimica}
+	\end{center}
+\end{figure}
+
+Este laboratório é destinado em sua maior parte aos alunos dos cursos de Engenharia Química e Engenharia de Alimentos, porém nas disciplinas de química geral, ministradas para as turmas de Computação ele também é usado, equipado com diversas ferramentas como difratômetro, ferramentas de análise de processos, entre outras, proporcionando aos alunos uma grande aprendizagem prática dentro do curso escolhido. Para uso do laboratório é necessário acompanhamento de um professor com horário marcado antecipadamente, devido aos produtos e equipamentos presentes dentro do laboratório.
+
+\subsection{Laboratório de Inovação de Games e Aplicativos}
+
+\begin{figure}[htb]
+	\caption{\label{fig:liga} LIGA}
+	\begin{center}
+		\includegraphics[scale=0.5]{liga}
+	\end{center}
+\end{figure}
+
+Laboratório destinado ao desenvolvimento de aplicações, android, iOS e jogos educacionais, é conhecido pelo desenvolvimento do aplicativo utilizado por alunos e professores para gestão da vida acadêmica, possui funcionários empregado nos projetos em que atua e também é aberto para a área acadêmica, a fim de apoiar alunos, tanto de Engenharia da Computação, como os de Tecnólogo em Jogos Digitais, no desenvolvimento de seus projetos. Este laboratório é o responsável pela elaboração da Maratona de Desenvolvimento de Jogos, que acontece durante a TecnoFacens, evento de grande prestígio dentro da faculdade, o qual o laboratório é bem engajado, mantendo dentro do seu aplicativo uma área para votação em projetos.
+
+\subsection{Fab Lab}
+
+\begin{figure}[htb]
+	\caption{\label{fig:fablab} Fab Lab}
+	\begin{center}
+		\includegraphics[scale=0.7]{fablab}
+	\end{center}
+\end{figure}
+
+É um laboratório de prototipagem digital, ou seja, possuem máquinas como CNC de precisão, cortadora a laser, impressora 3D, entre outras máquinas abertas ao publico em geral e empresas parceiras que queiram desenvolver suas ideias lá, em sua maioria são projetos acadêmicos criados por alunos que servem como protótipo para os projetos os quais eles desenvolvem. Frequentemente são realizados \textit{workshops} nos quais são ensinados construção de drones, móveis feitos em MDF, além de treinamentos para operação das máquinas ali presente. Para uso do espaço, é necessário agendamento prévio feito online, e aos sábados o laboratório se mantêm aberto para a comunidade, chamado de dia \textit{Open Day}.
+
+Ele tem ganhado destaque na mídia por ser o primeiro Fab Lab do interior de São Paulo, tendo criado seu próprio sistema de gerenciamento de usuários, o qual está sendo substituído por um projeto \textit{Open Source} originado na França, que tende manter em uma única plataforma todos os projetos cadastrados por todos os Fab Labs do mundo. 
 
 \section{Equipe de Trabalho}
+
+\begin{figure}[htb]
+	\caption{\label{fig:equipefacens} Equipe de Trabalho da Facens}
+	\begin{center}
+		\includegraphics[scale=0.6]{equipefacens}
+	\end{center}
+\end{figure}
+
 \label{sec:equipetrabalho}
+A equipe de trabalho é composta diretamente por sete integrantes, dentre eles, duplas trabalhando em cada frente de responsabilidade do setor.
+
+\subsection{Infraestrutra}
+Na frente de infraestrutura se encontra o Renato Bonani e Tiago Barbosa cuidando de servidores, configurações de rede, implementação de controle de acesso, criação e deleção de usuários, além de cuidar de sistema de cancelas e câmeras, sempre estão engajados em novos projetos para a melhoria da infraestrutura dentro da faculdade.
+
+\subsection{Sistemas}
+Na frente relacionada a sistemas de gerenciamento de usuários e banco de dados estão Diogo Silva e Lucas Mota, os quais fazem a função de DBA  e cuidam de informações, emissão de relatórios e todos os tipos de integração e administração do sistema Totvs, além de atendimento aos usuários do sistema, sempre estão relacionados a novos projetos, como criação de painéis via PowerBI e implantação de novas versões de sistemas.
+
+\subsection{Desenvolvimento}
+Na frente de desenvolvimento estão Alex Coelho e Flávio Bogila, os quais tem a responsabilidade de implementar novos sistemas corporativos e acadêmicos, dar suporte a sistemas legados, geralmente são sistemas vindos de uma demanda interna, apesar de existirem projetos externos a faculdade. É a equipe que mais recebe novos projetos, sendo eles a implantação do Sales Force, sistema de correção de provas, acervo de e-books, entre outros, além de disponibilizar via API dados para aplicações integradas a Faculdade Newton Paiva e ao Laboratório de Inovação e Desenvolvimento de Games e Aplicativos.
+
+\subsection{Gerenciamento}
+O setor é gerenciado por Gustavo Monteiro o qual tem a responsabilidade de documentar os projetos desenvolvidos e realizar a gestão do tempo dedicado a cada projeto, além de indicar as ações a serem tomadas em cada ocorrência. É dele também o dever de receber demandas e delegá-las a equipe.
 
 \section{Inter-relação com Outras Áreas da Empresa}
 \label{sec:relacaoareas}
+
+O setor de TI, no qual se desenvolveu o estágio sempre está em constante relacionamento com a equipe de outros setores, pois é através de outros setores que se surgem as demandas. De forma direta, até mesmo pela localização do setor, a secretaria que se utiliza de sistemas, como chamada, gerador de provas e o sistema de gestão dos alunos, é um setor que está relacionado ao TI por ser ele quem mantêm as atualizações e manutenções feitas nestes sistemas, desta forma se torna necessário entender das regras de negócio do setor, entender o dia a dia e funcionamento para que as especificações pedidas sejam atendidas.
+
+Outro setor muito próximo do TI é o LIGA, pelo fato de ser o setor que desenvolve os aplicativos com dados de alunos, como o portal e TecnoFacens, é mantida uma relação próxima de sucesso, como é o exemplo da TecnoFacens em que foram unidos esforços para desenvolver o aplicativo e o site para cadastro de projetos, inscrição em maratonas, marcação de presença e avaliação de projetos durante o evento, neste projeto muitas experiências puderam ser trocadas entre as equipes e houve uma proximidade dos setores.
+
+Tesouraria é outro setor que está em constante sincronia com a TI, pois lá ocorrem processamentos de boletos através de sistemas e gestão de alunos pagantes e não pagantes, fazendo com que a TI esteja alinhada para poder gerar boletos ou realizar alterações referentes a pagamentos.
+
+No geral todas as áreas acabam tendo relação com o TI, pois em todos os novos projetos dentro da faculdade que demandem o uso de alguma ferramenta mantida pelo TI, se terá uma relação com esse setor ao qual se está utilizando dos recursos, essa troca de experiência e entendimento das atividades realizadas pelos setores vem a incrementar o aprendizado e a melhor relação dentro do ambiente de trabalho. 
 
 \chapter{Atividades Desenvolvidas}
 \label{chap:chap5}
@@ -561,6 +655,13 @@ Além do suporte e estruturação da informática da faculdade o LI também tem 
 
 \chapter{Conclusões}
 \label{chap:chap6}
+O estágio realizado na FACENS teve grande valor, tanto no aprendizado quanto na experiência obtida a nível profissional. Vários desafios foram enfrentados como dificuldades no desenvolvimento por não ter prática em ambiente profissional. 
+
+A barreira de se adequar ao ambiente profissional e novas linguagens de programação foi logo vencida, já que aprender deve ser uma tarefa fácil para profissionais da área de computação e tecnologia, pois mudanças e atualizações são recorrentes.
+
+O desempenho em determinadas tarefas diárias aprimorou-se conforme ganhou-se a experiência, tanto em tempo quanto em qualidade.  Um profissional que entrasse para realizar as mesmas tarefas, independentemente de sua experiência, teria que aprender o trabalho, mesmo que levasse pouco tempo, mas de qualquer forma teria que conhecer os problemas para aprender as soluções, o que não é nada vantajoso para a empresa, pois gera custos maiores do que manter o profissional. A empresa descrita neste documento valorizou o aprendizado adquirido e manteve o estagiário no quadro de funcionários.
+
+Através desta experiência profissional, foi possível analisar que a prática é conquistada com o tempo e, mesmo com anos de experiência, mudanças de empregos obrigam a aprendermos no novo local. Nenhuma empresa trabalha da mesma forma que a outra e talvez a experiência adquirida não é o bastante para o novo local, portanto um bom profissional deve ser capaz de aprender a todo e a qualquer momento para se adaptar aos novos desafios e não estagnar com os conhecimentos adquiridos.
 
 % ----------------------------------------------------------
 % Finaliza a parte no bookmark do PDF

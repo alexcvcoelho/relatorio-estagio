@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.3.6)  19 AUG 2017 16:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.3.6)  19 OCT 2017 00:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1029,8 +1029,8 @@ LaTeX Info: Redefining \newblock on input line 591.
 LaTeX Info: Redefining \cite on input line 618.
 \ABCItoken=\toks30
 )
-Package color Info: Redefining color blue on input line 122.
-Package hyperref Info: Option `colorlinks' set `false' on input line 139.
+Package color Info: Redefining color blue on input line 126.
+Package hyperref Info: Option `colorlinks' set `false' on input line 143.
 \index@idxfile=\write4
 \openout4 = `index.idx'.
 
@@ -1046,34 +1046,31 @@ LaTeX Warning: Unused global option(s):
 LaTeX Warning: Label `fig:mapsfacens' multiply defined.
 
 
-LaTeX Warning: Label `fig:mapsfacens' multiply defined.
-
-
 LaTeX Warning: Label `sec:aempresa' multiply defined.
 
 )
 \openout1 = `index.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 162.
-LaTeX Font Info:    ... okay on input line 162.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 162.
-LaTeX Font Info:    ... okay on input line 162.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 162.
-LaTeX Font Info:    ... okay on input line 162.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 162.
-LaTeX Font Info:    ... okay on input line 162.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 162.
-LaTeX Font Info:    ... okay on input line 162.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 162.
-LaTeX Font Info:    ... okay on input line 162.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 162.
-LaTeX Font Info:    ... okay on input line 162.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 162.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 166.
+LaTeX Font Info:    ... okay on input line 166.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 166.
+LaTeX Font Info:    ... okay on input line 166.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 166.
+LaTeX Font Info:    ... okay on input line 166.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 166.
+LaTeX Font Info:    ... okay on input line 166.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 166.
+LaTeX Font Info:    ... okay on input line 166.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 166.
+LaTeX Font Info:    ... okay on input line 166.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 166.
+LaTeX Font Info:    ... okay on input line 166.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 166.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 \AtBeginShipoutBox=\box32
-Package hyperref Info: Link coloring OFF on input line 162.
+Package hyperref Info: Link coloring OFF on input line 166.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1085,18 +1082,18 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 162.
-LaTeX Info: Redefining \ref on input line 162.
-LaTeX Info: Redefining \pageref on input line 162.
-LaTeX Info: Redefining \nameref on input line 162.
-LaTeX Info: Redefining \degres on input line 162.
-LaTeX Info: Redefining \dots on input line 162.
-LaTeX Info: Redefining \up on input line 162.
+LaTeX Info: Redefining \nameref on input line 166.
+LaTeX Info: Redefining \ref on input line 166.
+LaTeX Info: Redefining \pageref on input line 166.
+LaTeX Info: Redefining \nameref on input line 166.
+LaTeX Info: Redefining \degres on input line 166.
+LaTeX Info: Redefining \dots on input line 166.
+LaTeX Info: Redefining \up on input line 166.
 \myptabbox=\box33
 \myptabboxwidth=\skip267
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 162.
+(lastpage)             ! on input line 166.
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count175
@@ -1125,7 +1122,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 162.
+LaTeX Info: Redefining \microtypecontext on input line 166.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1152,28 +1149,28 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
 File: imagens/facensLogo.jpg Graphic file (type jpg)
 
 <use imagens/facensLogo.jpg>
-Package pdftex.def Info: imagens/facensLogo.jpg used on input line 181.
+Package pdftex.def Info: imagens/facensLogo.jpg used on input line 185.
 (pdftex.def)             Requested size: 218.83566pt x 56.9055pt.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <16> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 181.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 185.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 181.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 185.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 181.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 185.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./imagens/facensLogo.jpg>]
 
-Underfull \hbox (badness 6559) in paragraph at lines 190--190
+Underfull \hbox (badness 6559) in paragraph at lines 194--194
 []\T1/phv/m/n/12 (+20) Relatório apre-sen-tado como re-qui-sito
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 190--190
+Underfull \hbox (badness 10000) in paragraph at lines 194--194
 
  []
 
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 190.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 194.
 
 (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1182,35 +1179,35 @@ File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 190.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 194.
 
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 190
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 194
 .
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 190
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 194
 .
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 190.
+(Font)              <12> on input line 194.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 190.
+(Font)              <8> on input line 194.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 190.
+(Font)              <6> on input line 194.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.190 
+l.194 
        [1
 
 
@@ -1239,213 +1236,259 @@ l.190
 
 ])
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 301.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 305.
  [5
 
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 314--320
+Underfull \hbox (badness 10000) in paragraph at lines 318--324
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 323--334
+Underfull \hbox (badness 10000) in paragraph at lines 327--338
 
  []
 
-<imagens/MapsFacens.png, id=85, 665.48625pt x 485.815pt>
+<imagens/MapsFacens.png, id=117, 665.48625pt x 485.815pt>
 File: imagens/MapsFacens.png Graphic file (type png)
 
 <use imagens/MapsFacens.png>
-Package pdftex.def Info: imagens/MapsFacens.png used on input line 338.
+Package pdftex.def Info: imagens/MapsFacens.png used on input line 342.
 (pdftex.def)             Requested size: 432.56093pt x 315.776pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--350
+Underfull \hbox (badness 10000) in paragraph at lines 348--354
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 353--362
+Underfull \hbox (badness 10000) in paragraph at lines 357--366
 
  []
 
 [6
 
 ] [7 <./imagens/MapsFacens.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 369--371
+Underfull \hbox (badness 10000) in paragraph at lines 373--375
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 372--374
+Underfull \hbox (badness 10000) in paragraph at lines 376--378
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 375--377
+Underfull \hbox (badness 10000) in paragraph at lines 379--381
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 378--380
+Underfull \hbox (badness 10000) in paragraph at lines 382--384
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 381--383
+Underfull \hbox (badness 10000) in paragraph at lines 385--387
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 384--386
+Underfull \hbox (badness 10000) in paragraph at lines 388--390
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--389
+Underfull \hbox (badness 10000) in paragraph at lines 391--393
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 390--392
+Underfull \hbox (badness 10000) in paragraph at lines 394--396
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 393--395
+Underfull \hbox (badness 10000) in paragraph at lines 397--399
 
  []
 
 [8
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 396--398
+Underfull \hbox (badness 10000) in paragraph at lines 400--402
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 399--401
+Underfull \hbox (badness 10000) in paragraph at lines 403--405
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 402--404
+Underfull \hbox (badness 10000) in paragraph at lines 406--408
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 405--407
+Underfull \hbox (badness 10000) in paragraph at lines 409--411
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 408--410
+Underfull \hbox (badness 10000) in paragraph at lines 412--414
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 411--412
+Underfull \hbox (badness 10000) in paragraph at lines 415--416
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 413--415
+Underfull \hbox (badness 10000) in paragraph at lines 417--419
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 416--418
+Underfull \hbox (badness 10000) in paragraph at lines 420--422
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 419--421
+Underfull \hbox (badness 10000) in paragraph at lines 423--425
 
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 422--424
+Underfull \hbox (badness 10000) in paragraph at lines 426--428
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 425--427
+Underfull \hbox (badness 10000) in paragraph at lines 429--431
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 428--430
+Underfull \hbox (badness 10000) in paragraph at lines 432--434
 
  []
 
-<imagens/facensfachada.jpg, id=103, 289.08pt x 185.0112pt>
+<imagens/facensfachada.jpg, id=135, 289.08pt x 185.0112pt>
 File: imagens/facensfachada.jpg Graphic file (type jpg)
 
 <use imagens/facensfachada.jpg>
-Package pdftex.def Info: imagens/facensfachada.jpg used on input line 439.
+Package pdftex.def Info: imagens/facensfachada.jpg used on input line 443.
 (pdftex.def)             Requested size: 245.71915pt x 157.26025pt.
  [10 <./imagens/facensfachada.jpg>] [11]
-<imagens/predioc.jpg, id=112, 235.3593pt x 139.722pt>
+<imagens/predioc.jpg, id=144, 1204.5pt x 632.3625pt>
 File: imagens/predioc.jpg Graphic file (type jpg)
+ <use imagens/predioc.jpg>
+Package pdftex.def Info: imagens/predioc.jpg used on input line 465.
+(pdftex.def)             Requested size: 361.35278pt x 189.7102pt.
 
-<use imagens/predioc.jpg>
-Package pdftex.def Info: imagens/predioc.jpg used on input line 461.
-(pdftex.def)             Requested size: 200.05632pt x 118.76425pt.
- [12 <./imagens/predioc.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 491--493
-
- []
-
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 494--496
+[12 <./imagens/predioc.jpg>] [13]
+Underfull \hbox (badness 10000) in paragraph at lines 495--497
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 497--499
+Underfull \hbox (badness 10000) in paragraph at lines 498--500
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 500--502
+Underfull \hbox (badness 10000) in paragraph at lines 501--503
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 503--505
+Underfull \hbox (badness 10000) in paragraph at lines 504--506
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--508
+Underfull \hbox (badness 10000) in paragraph at lines 507--509
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 509--511
+Underfull \hbox (badness 10000) in paragraph at lines 510--512
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 512--514
+Underfull \hbox (badness 10000) in paragraph at lines 513--515
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 515--517
+Underfull \hbox (badness 10000) in paragraph at lines 516--518
 
  []
 
-[14] [15] [16] [17
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 519--521
 
-] [18
+ []
+
+[15] [16]
+
+LaTeX Warning: Reference `fig:pc' on page 17 undefined on input line 545.
+
+<imagens/linux.png, id=175, 1445.4pt x 903.375pt>
+File: imagens/linux.png Graphic file (type png)
+ <use imagens/linux.png>
+Package pdftex.def Info: imagens/linux.png used on input line 553.
+(pdftex.def)             Requested size: 433.62335pt x 271.01459pt.
+
+[17
+
+ <./imagens/linux.png>]
+<imagens/eletrica.jpg, id=180, 1187.1552pt x 786.2976pt>
+File: imagens/eletrica.jpg Graphic file (type jpg)
+
+<use imagens/eletrica.jpg>
+Package pdftex.def Info: imagens/eletrica.jpg used on input line 574.
+(pdftex.def)             Requested size: 356.1493pt x 235.8911pt.
+
+<imagens/quimica.jpg, id=181, 1187.1552pt x 786.2976pt>
+File: imagens/quimica.jpg Graphic file (type jpg)
+
+<use imagens/quimica.jpg>
+Package pdftex.def Info: imagens/quimica.jpg used on input line 585.
+(pdftex.def)             Requested size: 356.1493pt x 235.8911pt.
+ [18]
+<imagens/liga.png, id=188, 831.105pt x 316.18124pt>
+File: imagens/liga.png Graphic file (type png)
+ <use imagens/liga.png>
+Package pdftex.def Info: imagens/liga.png used on input line 596.
+(pdftex.def)             Requested size: 415.55148pt x 158.09023pt.
+
+[19 <./imagens/eletrica.jpg> <./imagens/quimica.jpg>]
+<imagens/fablab.png, id=193, 481.8pt x 211.5102pt>
+File: imagens/fablab.png Graphic file (type png)
+ <use imagens/fablab.png>
+Package pdftex.def Info: imagens/fablab.png used on input line 607.
+(pdftex.def)             Requested size: 337.25769pt x 148.05612pt.
+
+[20 <./imagens/liga.png (PNG copy)> <./imagens/fablab.png>]
+<imagens/equipefacens.jpg, id=198, 622.325pt x 466.74374pt>
+File: imagens/equipefacens.jpg Graphic file (type jpg)
+
+<use imagens/equipefacens.jpg>
+Package pdftex.def Info: imagens/equipefacens.jpg used on input line 620.
+(pdftex.def)             Requested size: 373.39787pt x 280.0484pt.
+ [21 <./imagens/equipefacens.jpg>] [22] [23]
+[24
 
 ]
 No file index.ind.
 
 AED: lastpage setting LastPage
-[19
+[25
 
 ]
 \tf@lof=\write5
@@ -1454,34 +1497,37 @@ AED: lastpage setting LastPage
 \tf@toc=\write6
 \openout6 = `index.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 596.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 596.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 697.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 697.
  (./index.aux (./pre-textuais/lista-ilustracoes.aux)
 (./pre-textuais/lista-abreviaturas-siglas.aux) (./pre-textuais/sumario.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 596.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 596.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 697.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 697.
+
+
+LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 596.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 697.
  ) 
 Here is how much of TeX's memory you used:
- 14443 strings out of 493029
- 213620 string characters out of 6136235
- 470876 words of memory out of 5000000
- 17539 multiletter control sequences out of 15000+600000
- 47210 words of font info for 140 fonts, out of 8000000 for 9000
+ 14527 strings out of 493029
+ 214799 string characters out of 6136235
+ 472358 words of memory out of 5000000
+ 17582 multiletter control sequences out of 15000+600000
+ 47962 words of font info for 148 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,12n,36p,814b,516s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,12n,36p,931b,516s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /urw/helvetic/uhvro8a.pfb>
-Output written on index.pdf (20 pages, 584179 bytes).
+Output written on index.pdf (26 pages, 21442046 bytes).
 PDF statistics:
- 258 PDF objects out of 1000 (max. 8388607)
- 226 compressed objects within 3 object streams
- 59 named destinations out of 1000 (max. 500000)
- 22229 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 359 PDF objects out of 1000 (max. 8388607)
+ 314 compressed objects within 4 object streams
+ 82 named destinations out of 1000 (max. 500000)
+ 22339 words of extra memory for PDF output out of 24883 (max. 10000000)
 
