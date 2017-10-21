@@ -26,19 +26,19 @@
 \contentsline {subsection}{\numberline {4.1.1}Linux}{17}{subsection.4.1.1}
 \contentsline {section}{\numberline {4.2}Oficinas e Laborat\IeC {\'o}rios}{18}{section.4.2}
 \contentsline {subsection}{\numberline {4.2.1}Laborat\IeC {\'o}rio de Inform\IeC {\'a}tica}{18}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Laborat\IeC {\'o}rio de Qu\IeC {\'\i }mica}{18}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.2}Laborat\IeC {\'o}rio de Qu\IeC {\'\i }mica}{19}{subsection.4.2.2}
 \contentsline {subsection}{\numberline {4.2.3}Laborat\IeC {\'o}rio de Inova\IeC {\c c}\IeC {\~a}o de Games e Aplicativos}{20}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}Fab Lab}{20}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.4}Fab Lab}{21}{subsection.4.2.4}
 \contentsline {section}{\numberline {4.3}Equipe de Trabalho}{21}{section.4.3}
 \contentsline {subsection}{\numberline {4.3.1}Infraestrutra}{21}{subsection.4.3.1}
 \contentsline {subsection}{\numberline {4.3.2}Sistemas}{22}{subsection.4.3.2}
 \contentsline {subsection}{\numberline {4.3.3}Desenvolvimento}{22}{subsection.4.3.3}
-\contentsline {subsection}{\numberline {4.3.4}Gerenciamento}{22}{subsection.4.3.4}
-\contentsline {section}{\numberline {4.4}Inter-rela\IeC {\c c}\IeC {\~a}o com Outras \IeC {\'A}reas da Empresa}{22}{section.4.4}
+\contentsline {subsection}{\numberline {4.3.4}Gerenciamento}{23}{subsection.4.3.4}
+\contentsline {section}{\numberline {4.4}Inter-rela\IeC {\c c}\IeC {\~a}o com Outras \IeC {\'A}reas da Empresa}{23}{section.4.4}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Atividades Desenvolvidas}}{24}{chapter.5}
-\contentsline {section}{\numberline {5.1}\IeC {\'A}reas de Identifica\IeC {\c c}\IeC {\~a}o com o Curso}{24}{section.5.1}
+\contentsline {section}{\numberline {5.1}\IeC {\'A}reas de Identifica\IeC {\c c}\IeC {\~a}o com o Curso}{26}{section.5.1}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Conclus\IeC {\~o}es}}{25}{chapter.6}
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Conclus\IeC {\~o}es}}{27}{chapter.6}
 \vspace {\cftbeforechapterskip }
 \vspace {\cftbeforechapterskip }
