@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.3.6)  21 OCT 2017 01:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.3.6)  22 OCT 2017 23:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -990,6 +990,29 @@ LaTeX Warning: You have requested package `facens',
 Package: abntex2novopacote 2014/09/01 Criacao desta customizacao do abnTeX2
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty
 Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+
+Class memoir Warning: You are using the caption package with the memoir class. 
+To prepare we will now reset all captioning macros and configurations to kernel
+ defaults, and then let the caption package take over. Please remember to use t
+he caption package interfaces in order to configure your captions. .
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen160
+\captionmargin@=\dimen161
+\captionwidth=\dimen162
+\caption@tempdima=\dimen163
+\caption@indent=\dimen164
+\caption@parindent=\dimen165
+\caption@hangindent=\dimen166
+)
+\c@ContinuedFloat=\count170
+Package caption Info: hyperref package is loaded.
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2015/09/18 v0.5d Insert pages of external PDF documents (AM)
@@ -997,20 +1020,20 @@ Package: pdfpages 2015/09/18 v0.5d Insert pages of external PDF documents (AM)
 (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
 )
-\AM@pagewidth=\dimen160
-\AM@pageheight=\dimen161
+\AM@pagewidth=\dimen167
+\AM@pageheight=\dimen168
 
 (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
 File: pppdftex.def 2015/09/18 v0.5d Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box30
 \AM@toc@title=\toks29
-\c@AM@survey=\count170
+\c@AM@survey=\count171
 \AM@templatesizebox=\box31
 )
 (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
-\c@lips@count=\count171
+\c@lips@count=\count172
 )
 (/usr/share/texlive/texmf-dist/tex/latex/abntex2/abntex2cite.sty
 Package: abntex2cite 2016/02/26 v-1.9.6 abnTeX2
@@ -1018,8 +1041,8 @@ Package: abntex2cite 2016/02/26 v-1.9.6 abnTeX2
 (/usr/share/texlive/texmf-dist/tex/latex/abntex2/abntex2abrev.sty)
 \minimumbiblabelwidth=\skip264
 \ABCIauxlen=\skip265
-\c@ABCIaux=\count172
-\c@ABCImax=\count173
+\c@ABCIaux=\count173
+\c@ABCImax=\count174
 
 (/usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
 Package: relsize 2013/03/29 ver 4.1
@@ -1078,7 +1101,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count174
+\c@section@level=\count175
 )
 Redoing nameref's sectioning
 Redoing nameref's label
@@ -1096,16 +1119,16 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             ! on input line 166.
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count175
-\scratchdimen=\dimen162
+\scratchcounter=\count176
+\scratchdimen=\dimen169
 \scratchbox=\box34
-\nofMPsegments=\count176
-\nofMParguments=\count177
+\nofMPsegments=\count177
+\nofMParguments=\count178
 \everyMPshowfont=\toks31
-\MPscratchCnt=\count178
-\MPscratchDim=\dimen163
-\MPnumerator=\count179
-\makeMPintoPDFobject=\count180
+\MPscratchCnt=\count179
+\MPscratchDim=\dimen170
+\MPnumerator=\count180
+\makeMPintoPDFobject=\count181
 \everyMPtoPDFconversion=\toks32
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
@@ -1136,6 +1159,8 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `phv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
@@ -1251,7 +1276,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 327--338
 
  []
 
-<imagens/MapsFacens.png, id=125, 665.48625pt x 485.815pt>
+<imagens/MapsFacens.png, id=136, 665.48625pt x 485.815pt>
 File: imagens/MapsFacens.png Graphic file (type png)
 
 <use imagens/MapsFacens.png>
@@ -1269,80 +1294,73 @@ Underfull \hbox (badness 10000) in paragraph at lines 357--366
 
 [6
 
-] [7 <./imagens/MapsFacens.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 373--375
+]
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 370.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsphv.fd
+File: omsphv.fd 
+)
+LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 370.
+ [7 <./imagens/MapsFacens.png>] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 381--383
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--378
+Underfull \hbox (badness 10000) in paragraph at lines 384--386
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 379--381
+Underfull \hbox (badness 10000) in paragraph at lines 387--389
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 382--384
+Underfull \hbox (badness 10000) in paragraph at lines 390--392
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 385--387
+Underfull \hbox (badness 10000) in paragraph at lines 393--395
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 388--390
+Underfull \hbox (badness 10000) in paragraph at lines 396--398
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 391--393
+Underfull \hbox (badness 10000) in paragraph at lines 399--401
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 394--396
+Underfull \hbox (badness 10000) in paragraph at lines 402--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 397--399
+Underfull \hbox (badness 10000) in paragraph at lines 405--407
 
  []
 
-[8
+[9
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 400--402
+Underfull \hbox (badness 10000) in paragraph at lines 408--410
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--405
+Underfull \hbox (badness 10000) in paragraph at lines 411--413
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 406--408
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 409--411
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 412--414
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 415--416
+Underfull \hbox (badness 10000) in paragraph at lines 414--416
 
  []
 
@@ -1357,168 +1375,205 @@ Underfull \hbox (badness 10000) in paragraph at lines 420--422
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--425
-
- []
-
-[9]
-Underfull \hbox (badness 10000) in paragraph at lines 426--428
+Underfull \hbox (badness 10000) in paragraph at lines 423--424
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--431
+Underfull \hbox (badness 10000) in paragraph at lines 425--427
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 432--434
+Underfull \hbox (badness 10000) in paragraph at lines 428--430
 
  []
 
-<imagens/facensfachada.jpg, id=143, 289.08pt x 185.0112pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 431--433
+
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 434--436
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--439
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 440--442
+
+ []
+
+<imagens/facensfachada.jpg, id=159, 289.08pt x 185.0112pt>
 File: imagens/facensfachada.jpg Graphic file (type jpg)
 
 <use imagens/facensfachada.jpg>
-Package pdftex.def Info: imagens/facensfachada.jpg used on input line 443.
+Package pdftex.def Info: imagens/facensfachada.jpg used on input line 451.
 (pdftex.def)             Requested size: 245.71915pt x 157.26025pt.
- [10 <./imagens/facensfachada.jpg>] [11]
-<imagens/predioc.jpg, id=152, 1204.5pt x 632.3625pt>
+ [11 <./imagens/facensfachada.jpg>] [12]
+<imagens/predioc.jpg, id=170, 1204.5pt x 632.3625pt>
 File: imagens/predioc.jpg Graphic file (type jpg)
  <use imagens/predioc.jpg>
-Package pdftex.def Info: imagens/predioc.jpg used on input line 465.
+Package pdftex.def Info: imagens/predioc.jpg used on input line 473.
 (pdftex.def)             Requested size: 361.35278pt x 189.7102pt.
 
-[12 <./imagens/predioc.jpg>] [13]
-Underfull \hbox (badness 10000) in paragraph at lines 495--497
+[13 <./imagens/predioc.jpg>] [14]
+Underfull \hbox (badness 10000) in paragraph at lines 503--505
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 498--500
+Underfull \hbox (badness 10000) in paragraph at lines 506--508
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 501--503
+Underfull \hbox (badness 10000) in paragraph at lines 509--511
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 504--506
+Underfull \hbox (badness 10000) in paragraph at lines 512--514
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 507--509
+Underfull \hbox (badness 10000) in paragraph at lines 515--517
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 510--512
+Underfull \hbox (badness 10000) in paragraph at lines 518--520
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 513--515
+Underfull \hbox (badness 10000) in paragraph at lines 521--523
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 516--518
+Underfull \hbox (badness 10000) in paragraph at lines 524--526
 
  []
 
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 519--521
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 527--529
 
  []
 
-[15] [16]
+[16] [17] <imagens/pc.jpg, id=199, 2509.375pt x 1411.2725pt>
+File: imagens/pc.jpg Graphic file (type jpg)
 
-LaTeX Warning: Reference `fig:pc' on page 17 undefined on input line 545.
-
-<imagens/linux.png, id=183, 1445.4pt x 903.375pt>
+<use imagens/pc.jpg>
+Package pdftex.def Info: imagens/pc.jpg used on input line 558.
+(pdftex.def)             Requested size: 250.9522pt x 141.13551pt.
+ <imagens/linux.png, id=201, 1445.4pt x 903.375pt>
 File: imagens/linux.png Graphic file (type png)
- <use imagens/linux.png>
-Package pdftex.def Info: imagens/linux.png used on input line 553.
+
+<use imagens/linux.png>
+Package pdftex.def Info: imagens/linux.png used on input line 568.
 (pdftex.def)             Requested size: 433.62335pt x 271.01459pt.
+ [18
 
-[17
-
- <./imagens/linux.png>] <imagens/li.jpg, id=188, 1284.8pt x 722.7pt>
+ <./imagens/pc.jpg>]
+<imagens/li.jpg, id=207, 1284.8pt x 722.7pt>
 File: imagens/li.jpg Graphic file (type jpg)
-
-<use imagens/li.jpg>
-Package pdftex.def Info: imagens/li.jpg used on input line 567.
+ <use imagens/li.jpg>
+Package pdftex.def Info: imagens/li.jpg used on input line 582.
 (pdftex.def)             Requested size: 385.44298pt x 216.81166pt.
- [18 <./imagens/li.jpg>]
-<imagens/eletrica.jpg, id=194, 1187.1552pt x 786.2976pt>
+ [19 <./imagens/linux.png> <./imagens/li.jpg>]
+<imagens/eletrica.jpg, id=212, 1187.1552pt x 786.2976pt>
 File: imagens/eletrica.jpg Graphic file (type jpg)
 
 <use imagens/eletrica.jpg>
-Package pdftex.def Info: imagens/eletrica.jpg used on input line 582.
+Package pdftex.def Info: imagens/eletrica.jpg used on input line 597.
 (pdftex.def)             Requested size: 356.1493pt x 235.8911pt.
-
-<imagens/quimica.jpg, id=195, 1187.1552pt x 786.2976pt>
+ [20 <./imagens/eletrica.jpg>]
+<imagens/quimica.jpg, id=218, 1187.1552pt x 786.2976pt>
 File: imagens/quimica.jpg Graphic file (type jpg)
 
 <use imagens/quimica.jpg>
-Package pdftex.def Info: imagens/quimica.jpg used on input line 593.
+Package pdftex.def Info: imagens/quimica.jpg used on input line 608.
 (pdftex.def)             Requested size: 356.1493pt x 235.8911pt.
- <imagens/liga.png, id=196, 831.105pt x 316.18124pt>
+ <imagens/liga.png, id=219, 831.105pt x 316.18124pt>
 File: imagens/liga.png Graphic file (type png)
 
 <use imagens/liga.png>
-Package pdftex.def Info: imagens/liga.png used on input line 604.
+Package pdftex.def Info: imagens/liga.png used on input line 619.
 (pdftex.def)             Requested size: 415.55148pt x 158.09023pt.
- [19 <./imagens/eletrica.jpg>]
-<imagens/fablab.png, id=202, 481.8pt x 211.5102pt>
+ [21 <./imagens/quimica.jpg>]
+<imagens/fablab.png, id=224, 481.8pt x 211.5102pt>
 File: imagens/fablab.png Graphic file (type png)
  <use imagens/fablab.png>
-Package pdftex.def Info: imagens/fablab.png used on input line 615.
+Package pdftex.def Info: imagens/fablab.png used on input line 630.
 (pdftex.def)             Requested size: 337.25769pt x 148.05612pt.
 
-[20 <./imagens/quimica.jpg> <./imagens/liga.png (PNG copy)>]
-<imagens/equipefacens.jpg, id=207, 622.325pt x 466.74374pt>
+[22 <./imagens/liga.png (PNG copy)> <./imagens/fablab.png>]
+<imagens/equipefacens.jpg, id=229, 622.325pt x 466.74374pt>
 File: imagens/equipefacens.jpg Graphic file (type jpg)
 
 <use imagens/equipefacens.jpg>
-Package pdftex.def Info: imagens/equipefacens.jpg used on input line 628.
+Package pdftex.def Info: imagens/equipefacens.jpg used on input line 643.
 (pdftex.def)             Requested size: 373.39787pt x 280.0484pt.
- [21 <./imagens/fablab.png>] [22 <./imagens/equipefacens.jpg>] [23] <imagens/na
-sa.png, id=221, 1371.1225pt x 770.88pt>
+ [23 <./imagens/equipefacens.jpg>] [24] [25]
+<imagens/nasa.png, id=244, 1371.1225pt x 770.88pt>
 File: imagens/nasa.png Graphic file (type png)
-
-<use imagens/nasa.png>
-Package pdftex.def Info: imagens/nasa.png used on input line 667.
+ <use imagens/nasa.png>
+Package pdftex.def Info: imagens/nasa.png used on input line 682.
 (pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
- [24
 
- <./imagens/nasa.png>]
-<imagens/fsf.png, id=230, 1371.1225pt x 770.88pt>
+[26
+
+ <./imagens/nasa.png>] <imagens/fsf.png, id=252, 1371.1225pt x 770.88pt>
 File: imagens/fsf.png Graphic file (type png)
- <use imagens/fsf.png>
-Package pdftex.def Info: imagens/fsf.png used on input line 676.
-(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
 
-<imagens/chamada.png, id=231, 1371.1225pt x 770.88pt>
+<use imagens/fsf.png>
+Package pdftex.def Info: imagens/fsf.png used on input line 691.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+ <imagens/chamada.png, id=254, 1371.1225pt x 770.88pt>
 File: imagens/chamada.png Graphic file (type png)
 
 <use imagens/chamada.png>
-Package pdftex.def Info: imagens/chamada.png used on input line 685.
+Package pdftex.def Info: imagens/chamada.png used on input line 700.
 (pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
- <imagens/fundec.png, id=232, 1371.1225pt x 770.88pt>
-File: imagens/fundec.png Graphic file (type png)
+ [27 <./imagens/fsf.png>]
+<imagens/fablabsistema.png, id=261, 1371.1225pt x 770.88pt>
+File: imagens/fablabsistema.png Graphic file (type png)
 
-<use imagens/fundec.png>
-Package pdftex.def Info: imagens/fundec.png used on input line 694.
+<use imagens/fablabsistema.png>
+Package pdftex.def Info: imagens/fablabsistema.png used on input line 709.
 (pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
- [25 <./imagens/fsf.png>] [26 <./imagens/chamada.png> <./imagens/fundec.png>]
-No file index.ind.
+
+<imagens/fabmanager.png, id=263, 1371.1225pt x 770.88pt>
+File: imagens/fabmanager.png Graphic file (type png)
+
+<use imagens/fabmanager.png>
+Package pdftex.def Info: imagens/fabmanager.png used on input line 718.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+ [28 <./imagens/chamada.png>]
+<imagens/fundec.png, id=270, 1371.1225pt x 770.88pt>
+File: imagens/fundec.png Graphic file (type png)
+ <use imagens/fundec.png>
+Package pdftex.def Info: imagens/fundec.png used on input line 727.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+
+[29 <./imagens/fablabsistema.png> <./imagens/fabmanager.png>]
+<imagens/cas.png, id=276, 1371.1225pt x 770.88pt>
+File: imagens/cas.png Graphic file (type png)
+ <use imagens/cas.png>
+Package pdftex.def Info: imagens/cas.png used on input line 736.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+
+[30 <./imagens/fundec.png> <./imagens/cas.png>] [31] (./index.ind)
 
 AED: lastpage setting LastPage
-[27
+[32
 
 ]
 \tf@lof=\write5
@@ -1527,37 +1582,35 @@ AED: lastpage setting LastPage
 \tf@toc=\write6
 \openout6 = `index.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 743.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 743.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 785.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 785.
  (./index.aux (./pre-textuais/lista-ilustracoes.aux)
 (./pre-textuais/lista-abreviaturas-siglas.aux) (./pre-textuais/sumario.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 743.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 743.
-
-
-LaTeX Warning: There were undefined references.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 785.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 785.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 743.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 785.
  ) 
 Here is how much of TeX's memory you used:
- 14564 strings out of 493029
- 215385 string characters out of 6136235
- 472693 words of memory out of 5000000
- 17607 multiletter control sequences out of 15000+600000
- 47962 words of font info for 148 fonts, out of 8000000 for 9000
+ 15638 strings out of 493029
+ 235124 string characters out of 6136235
+ 492668 words of memory out of 5000000
+ 18645 multiletter control sequences out of 15000+600000
+ 49097 words of font info for 157 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,12n,36p,931b,516s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,12n,40p,1089b,516s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/urw/helvetic/uhvro8a.pfb>
-Output written on index.pdf (28 pages, 23121684 bytes).
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/h
+elvetic/uhvro8a.pfb>
+Output written on index.pdf (33 pages, 24693073 bytes).
 PDF statistics:
- 387 PDF objects out of 1000 (max. 8388607)
- 333 compressed objects within 4 object streams
- 89 named destinations out of 1000 (max. 500000)
- 22364 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 434 PDF objects out of 1000 (max. 8388607)
+ 370 compressed objects within 4 object streams
+ 99 named destinations out of 1000 (max. 500000)
+ 22384 words of extra memory for PDF output out of 24883 (max. 10000000)
 

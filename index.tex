@@ -117,7 +117,7 @@
 %---
 % Lista de figuras contando por seção
 %---
-%\counterwithin{figure}{section}
+\counterwithin{figure}{section}
 
 % ---
 % Configurações de aparência do PDF final
@@ -366,7 +366,15 @@ Informações sobre a empresa e o estagiário são apresentados nesta seção.
 
 \section{Atividades Programadas Para o Estagiário}
 \label{sec:ativestagiario}
-
+\begin{itemize}
+   \item Atuar na área de desenvolvimento;
+   \item Colaborar com toda a equipe de TI na resolução de problemas;
+   \item Realizar testes;
+   \item Implantar sistemas;
+   \item Manter servidores WEB em funcionamento;
+   \item Manter banco de dados atualizados e em funcionamento;
+   \item Realizar backups.
+ \end{itemize}
 
 \chapter{Organograma da Empresa}
 \label{chap:chap3}
@@ -544,6 +552,13 @@ Entre os recursos disponíveis estão computadores atuais, conectados a uma inte
 \section{Recursos do Estágio}
 A sala do TI, na qual se realizou o estágio está situada no prédio E dentro da faculdade, no segundo andar (andar administrativo), as salas são equipadas com uma máquina para cada colaborador, sendo a minha em questão com processador i7 e 8 GB de memória RAM, mostrado na figura \ref{fig:pc}, possibilitando desenvolver e testar todo o tipo de tecnologia referente a desenvolvimento
 
+\begin{figure}[htb]
+	\caption{\label{fig:pc} Computador}
+	\begin{center}
+		\includegraphics[scale=0.1]{pc}
+	\end{center}
+\end{figure}
+
 \subsection{Linux}
 Utilizou-se o sistema operacional Linux para maior facilidade na instalação e configuração das tecnologias utilizadas durante o estágio, se utilizando da distribuição Linux Mint versão 17.0 (Sarah) com interface gráfica Cinamon, como mostrado na figura \ref{fig:linux}. Isto só foi possível através da política da empresa que permitiu o uso de um sistema operacional diferente ao do padrão adotado pela faculdade, que é o Windows.
 
@@ -677,7 +692,7 @@ Outro sistema desenvolvido já no início do estágio foi o Facens Sem Fronteira
 	\end{center}
 \end{figure}
 
-Já com maior conhecimento na linguagem, iniciou-se o desenvolvimento da chamada online, um sistema para que as chamadas fossem feitas de forma online contemplando a geração dos diários de sala e integração com o sistema de alunos para disponibilidade das faltas via portal do aluno. Com o passar do tempo, as necessidades foram crescendo, sendo necessária a implementação de novos módulos dentro do sistema, como a chamada de eventos, armazenamento da baixa de diários entregues, impressão de diários em branco para professores que não se utilizam da chamada online. Além das habilidades necessárias para desenvolver o sistema, foram necessários conhecimentos sobre a base de alunos para integração com a mesma via serviço Nodejs em que ao fim do mês o professor exporta suas chamadas realizadas para o banco de alunos.
+Já com maior conhecimento na linguagem, iniciou-se o desenvolvimento da chamada online, como mostra a figura \ref{fig:chamada}, um sistema para que as chamadas fossem feitas de forma online contemplando a geração dos diários de sala e integração com o sistema de alunos para disponibilidade das faltas via portal do aluno. Com o passar do tempo, as necessidades foram crescendo, sendo necessária a implementação de novos módulos dentro do sistema, como a chamada de eventos, armazenamento da baixa de diários entregues, impressão de diários em branco para professores que não se utilizam da chamada online. Além das habilidades necessárias para desenvolver o sistema, foram necessários conhecimentos sobre a base de alunos para integração com a mesma via serviço Nodejs em que ao fim do mês o professor exporta suas chamadas realizadas para o banco de alunos.
 
 \begin{figure}[htb]
 	\caption{\label{fig:chamada} Chamada Online}
@@ -686,7 +701,25 @@ Já com maior conhecimento na linguagem, iniciou-se o desenvolvimento da chamada
 	\end{center}
 \end{figure}
 
-Um projeto muito valioso para o aprendizado e gratificante, que proporcionou experiências não só na área da computação, foi a doação de um sistema de inscrição para a Fundação de Desenvolvimento Cultural de Sorocaba (FUNDEC), anteriormente ao sistema o processo era realizado a mão tendo mais de 4 mil inscrições, demandando a contratação de funcionários, e tendo um alto índice de erros durante o processo. Com a utilização do sistema se teve um recorde de 4700 inscrições sem a necessidade de contratação de novos funcionários e um baixo índice de erros, o que rendeu as matérias disponíveis em http://www.facens.br/noticias/institucional/facens-desenvolve-sistema-para-a-fundec. 
+Com a criação do Fab Lab que estava por vir, surgiu-se uma demanda para a criação de um sistema para agendamentos de horários para que alunos e comunidade externa pudesse realizar ali seus trabalhos, como mostrado na figura \ref{fig:fablabsistema}, o desenvolvimento deste sistema além do aprendizado técnico possibilitou um maior contato com pessoas que não são da mesma área, treinando assim a habilidade de transformar informações desestruturadas em requisitos para o sistema, outro grande aprendizado foi com relação ao tempo de vida de um software, inicialmente foram feitos muitos requisitos que acabaram por serem tão úteis, em contra partida outros requisitos fizeram falta no sistema demandando algumas correções mesmo depois de implantado. E após em média 2 anos de uso notou-se a demanda para um sistema maior e mais completo, foi onde surgiu a utilização do Fabmanager um sistema \textit{Open Source} desenvolvido na França com a intenção de centralizar projetos desenvolvidos no mundo inteiro de forma colaborativa.
+
+\begin{figure}[htb]
+	\caption{\label{fig:fablabsistema} Sistema Fab Lab}
+	\begin{center}
+		\includegraphics[scale=0.3]{fablabsistema}
+	\end{center}
+\end{figure}
+
+Com a implantação deste novo sistema veio junto a experiência de se programar em Ruby, CoffeScript e AngulaJS, pois apesar do sistema ser completa era necessárias algumas modificações para se adequar ao uso da faculdade, dentre eles o meio de pagamento em que no sistema original era feito por uma carteira estrangeira, sendo adaptado para o \textit{e-commerce} usado pela faculdade. As alterações realizadas nesse projeto possibilitou a doação da tradução do mesmo para o repositório oficial do projeto, sendo um projeto pioneiro no Brasil, despertando interesse em utiliza-lo nos Fab Labs do SESI. O sistema é mostrado na figura \ref{fig:fabmanager}.
+
+\begin{figure}[htb]
+	\caption{\label{fig:fabmanager} Sistema FAbmanager}
+	\begin{center}
+		\includegraphics[scale=0.3]{fabmanager}
+	\end{center}
+\end{figure}
+
+Um projeto muito valioso para o aprendizado e gratificante, que proporcionou experiências não só na área da computação, foi a doação de um sistema de inscrição para a Fundação de Desenvolvimento Cultural de Sorocaba (FUNDEC), mostrado na figura \ref{fig:fundec}, anteriormente ao sistema o processo era realizado a mão tendo mais de 4 mil inscrições, demandando a contratação de funcionários, e tendo um alto índice de erros durante o processo. Com a utilização do sistema se teve um recorde de 4700 inscrições sem a necessidade de contratação de novos funcionários e um baixo índice de erros, o que rendeu as matérias disponíveis em http://www.facens.br/noticias/institucional/facens-desenvolve-sistema-para-a-fundec. 
 
 \begin{figure}[htb]
 	\caption{\label{fig:fundec} Processo seletivo FUNDEC}
@@ -695,9 +728,18 @@ Um projeto muito valioso para o aprendizado e gratificante, que proporcionou exp
 	\end{center}
 \end{figure}
 
+Outro projeto bem interessante foi o desenvolvimento de um sistema de agendamento de horários para atendimentos com a psicopedagoga da faculdade, onde ocorreram trocas de experiência com áreas diferentes e ao fim um sistema que facilitou muito o dia a dia tanto dos alunos interessados no atendimento quanto o da psicopedagoga, o sistema é mostrado na figura \ref{fig:cas}. A grande experiência ganha neste projeto foi a de realizar todas as fases sozinho, desde o levantamento de requisitos até a criação do sistema, sem nenhum intermediador.
+
+\begin{figure}[htb]
+	\caption{\label{fig:cas} Agendamento Psicodegógico}
+	\begin{center}
+		\includegraphics[scale=0.3]{cas}
+	\end{center}
+\end{figure}
 
 \section{Áreas de Identificação com o Curso}
 \label{sec:identcurso}
+Como já mostrado todo o estágio foi realizado na área de desenvolvimento de \textit{software} o que vem a se identificar diretamente com o curso, o qual apresenta uma grande carga de aulas relacionadas a este tema, pois em todos os projetos foram necessários conceitos aprendidos em aulas como Orientação a Objetos, Gestão de Projetos, Engenharia de Software e Programação Estruturada, sendo assim o estágio passou a ser o laboratório prático de toda a teoria aprendida em aula.
 
 \chapter{Conclusões}
 \label{chap:chap6}
